@@ -1,0 +1,56 @@
+﻿<Window x:Class="Event_System.register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Event_System"
+        mc:Ignorable="d"
+        Title="register" WindowStartupLocation="CenterScreen" Background="#FFABE3D1" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="167*"/>
+            <RowDefinition Height="149*"/>
+            <RowDefinition Height="118*"/>
+        </Grid.RowDefinitions>
+        <Button Background="MediumAquamarine" Foreground="Purple" FontWeight="ExtraBold" Content="REGISTER" Margin="407,69,227,10" Grid.Row="2" Click="Button_Click"  />
+        <Label Width="400"  Foreground="Purple" Content="REGISTRATION" FontSize="37" FontWeight="ExtraBold" Margin="258,10,142,94" />
+        <Label FontWeight="ExtraBold" FontSize="15" Content="Mobile NO: " HorizontalAlignment="Left" Height="35" Margin="96,64,0,0" Foreground="Purple" VerticalAlignment="Top" Width="109" Grid.Row="1"/>
+        <Label FontWeight="ExtraBold" FontSize="15"  Content="Duration:" HorizontalAlignment="Left" Height="34" Margin="429,8,0,0" Foreground="Purple" VerticalAlignment="Top" Width="88" Grid.Row="1"/>
+        <Label FontWeight="ExtraBold" FontSize="15"  Content="No. Of Guest:" HorizontalAlignment="Left" Height="33" Margin="429,65,0,0" Foreground="Purple" VerticalAlignment="Top" Width="127" Grid.Row="1"/>
+        <Label FontWeight="ExtraBold" FontSize="15"  Content="Event" HorizontalAlignment="Left" Height="35" Margin="429,78,0,0" Foreground="Purple" VerticalAlignment="Top" Width="88"/>
+        <Label FontWeight="ExtraBold" FontSize="15"  Content="Address:" HorizontalAlignment="Left" Height="34" Margin="429,123,0,0" Foreground="Purple" VerticalAlignment="Top" Width="88" Grid.Row="1" Grid.RowSpan="2"/>
+        <Label  FontWeight="ExtraBold" FontSize="15"  Content="CNIC No:" HorizontalAlignment="Left" Height="34" Margin="429,127,0,0" Foreground="Purple" VerticalAlignment="Top" Width="106"/>
+        <Label FontWeight="ExtraBold" FontSize="15"  Content="Email ID:" HorizontalAlignment="Left" Height="34" Margin="96,121,0,0" Foreground="Purple" VerticalAlignment="Top" Width="88" Grid.Row="1" Grid.RowSpan="2"/>
+        <Label FontWeight="ExtraBold" FontSize="15"  Content="Father's Name:" HorizontalAlignment="Left" Height="32" Margin="96,125,0,0" Foreground="Purple" VerticalAlignment="Top" Width="120"/>
+        <Label FontWeight="ExtraBold" FontSize="15"  Content="Event Date:" HorizontalAlignment="Left" Height="35" Margin="96,9,0,0" Foreground="Purple" VerticalAlignment="Top" Width="98" Grid.Row="1"/>
+        <Label FontWeight="ExtraBold" FontSize="15"  Content="Full Name:" HorizontalAlignment="Left" Height="34" Margin="96,78,0,0" Foreground="Purple" VerticalAlignment="Top" Width="88"/>
+        <TextBox x:Name="FullName" FontSize="15"  HorizontalAlignment="Left" Height="23" Margin="244,84,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="FatherName" FontSize="15"  HorizontalAlignment="Left" Height="24" Margin="244,131,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="144" TextChanged="FatherName_TextChanged" />
+        <TextBox x:Name="MobNo_of_Std" FontSize="15"  HorizontalAlignment="Left" Height="24" Margin="244,67,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="144" Grid.Row="1"/>
+        <TextBox x:Name="Email_of_Std" FontSize="15"  HorizontalAlignment="Left" Height="23" Margin="244,126,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="144" Text="" Grid.Row="1" Grid.RowSpan="2"/>
+        <TextBox x:Name="SchName_of_Std" FontSize="15"  HorizontalAlignment="Left" Height="23" Margin="573,69,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="144" Grid.Row="1"/>
+        <TextBox x:Name="CNIC_of_Std" FontSize="15"  HorizontalAlignment="Left" Height="23" Margin="573,130,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="144"/>
+
+        <TextBox x:Name="DOB" HorizontalAlignment="Left" Margin="244,15,0,0" VerticalAlignment="Top" Width="144" Height="22" Grid.Row="1" />
+        <ComboBox x:Name="EventSelected" HorizontalAlignment="Left" Margin="573,81,0,0" VerticalAlignment="Top" Width="144" Text=" -- Select --" Height="26"           >
+            <ComboBoxItem Content="Wedding"/>
+            <ComboBoxItem Content="Party"/>
+            <ComboBoxItem Content="Birthday"/>
+            <ComboBoxItem Content="Conference"/>
+
+        </ComboBox>
+        <ComboBox x:Name="DurationSelected" HorizontalAlignment="Left" Margin="573,11,0,0" VerticalAlignment="Top" Width="144" Text=" -- Select --" Height="26" Grid.Row="1">
+            <ComboBoxItem Content="1-4"/>
+            <ComboBoxItem Content="5-8"/>
+            <ComboBoxItem Content="9-12"/>
+        </ComboBox>
+
+
+
+
+        <TextBox x:Name="Address_of_Std"  HorizontalAlignment="Left"  Margin="573,126,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="143" Height="24" Grid.Row="1" Grid.RowSpan="2"/>
+        <Button Foreground="Purple" FontWeight="ExtraBold" Content="BACK" Margin="198,69,436,10" Grid.Row="2" Click="BACK_Click"  />
+
+
+    </Grid>
+</Window>

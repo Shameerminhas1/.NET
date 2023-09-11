@@ -1,0 +1,128 @@
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Event System.csproj.AssemblyReference.cache
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Event System.csproj.SuggestedBindingRedirects.cache
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\MainWindow.g.cs
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\App.g.cs
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Event System_MarkupCompile.cache
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Event System_MarkupCompile.lref
+C:\Users\adilm\source\repos\Event System\Event System\bin\Debug\Event System.exe.config
+C:\Users\adilm\source\repos\Event System\Event System\bin\Debug\Event System.exe
+C:\Users\adilm\source\repos\Event System\Event System\bin\Debug\Event System.pdb
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\MainWindow.baml
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Event System.g.resources
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Event_System.Properties.Resources.resources
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Event System.csproj.GenerateResource.cache
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Event System.csproj.CoreCompileInputs.cache
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Event System.exe
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Event System.pdb
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\DataPick.g.cs
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Datashow.g.cs
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\DataPick.baml
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Datashow.baml
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Options.g.cs
+C:\Users\adilm\source\repos\Event System\Event System\obj\Debug\Options.baml
+C:\Users\adilm\Documents\Event System\Event System\bin\Debug\Event System.exe.config
+C:\Users\adilm\Documents\Event System\Event System\bin\Debug\Event System.exe
+C:\Users\adilm\Documents\Event System\Event System\bin\Debug\Event System.pdb
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Event System.csproj.AssemblyReference.cache
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Event System.csproj.SuggestedBindingRedirects.cache
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\DataPick.g.cs
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Datashow.g.cs
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\first.g.cs
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\MainWindow.g.cs
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Options.g.cs
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\App.g.cs
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Event System_MarkupCompile.cache
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Event System_MarkupCompile.lref
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\DataPick.baml
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Datashow.baml
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\first.baml
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\MainWindow.baml
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Options.baml
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Event System.g.resources
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Event_System.Properties.Resources.resources
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Event System.csproj.GenerateResource.cache
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Event System.csproj.CoreCompileInputs.cache
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Event System.exe
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Event System.pdb
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\DashbordES.g.cs
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Question.g.cs
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\AboutData.g.cs
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\DashbordES.baml
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\Question.baml
+C:\Users\adilm\Documents\Event System\Event System\obj\Debug\AboutData.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\bin\Debug\Event System.exe.config
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\bin\Debug\Event System.exe
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\bin\Debug\Event System.pdb
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Event System.csproj.AssemblyReference.cache
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Event System.csproj.SuggestedBindingRedirects.cache
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\AboutData.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\DashbordES.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\DataPick.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Datashow.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\first.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\MainWindow.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Options.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Question.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\App.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Event System_MarkupCompile.cache
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Event System_MarkupCompile.lref
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\AboutData.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\DashbordES.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\DataPick.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Datashow.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\first.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\MainWindow.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Options.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Question.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Event System.g.resources
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Event_System.Properties.Resources.resources
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Event System.csproj.GenerateResource.cache
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Event System.csproj.CoreCompileInputs.cache
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Event System.exe
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\Event System.pdb
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\rights.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\rights.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\user.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\user.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\register.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\register.baml
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\feedrec.g.cs
+C:\Users\shame\OneDrive\Desktop\Event System\Event System\obj\Debug\feedrec.baml
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System.csproj.AssemblyReference.cache
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System.csproj.SuggestedBindingRedirects.cache
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\AboutData.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\DashbordES.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\DataPick.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Datashow.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\feedrec.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\first.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\MainWindow.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Options.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Question.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\register.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\rights.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\user.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\App.g.cs
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System_MarkupCompile.cache
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System_MarkupCompile.lref
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System.exe
+C:\Users\shame\OneDrive\Desktop\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System.pdb
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System.csproj.AssemblyReference.cache
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System.csproj.SuggestedBindingRedirects.cache
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\AboutData.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\DashbordES.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\DataPick.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Datashow.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\feedrec.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\first.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\MainWindow.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Options.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Question.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\register.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\rights.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\user.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\App.g.cs
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System_MarkupCompile.cache
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System_MarkupCompile.lref
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System.exe
+D:\UNI IT MATERIAL\SEMESTER 5\VISUAL PROGRAMMING\Event System-final\Event System\obj\Debug\Event System.pdb

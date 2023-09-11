@@ -1,0 +1,20 @@
+﻿<Window x:Class="Event_System.Question"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Event_System"
+        mc:Ignorable="d"
+        Title="Question" WindowStartupLocation="CenterScreen" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid Background="#FF8CE3C7" >
+
+        <Label Height="45" Foreground="Purple" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="22" FontWeight="ExtraBold"
+               Width="561" Content="Are you have any Experience to our organization:" Margin="137,51,0,0"/>
+        <TextBox  x:Name="Query_txt" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Width="380" Margin="0,96,0,299" Foreground="#FF8A1090"/>
+
+        <Button Content="Next" Background="#FF37B88D" Foreground="Purple" FontSize="20" FontWeight="ExtraBold" 
+                Click="Button_Click" Margin="285,175,417,206"/>
+        <Button Content="Back" Background="#FF37B88D" Foreground="Purple" 
+                FontSize="20" FontWeight="ExtraBold" Click="Button_Click_1" Margin="442,175,259,206"/>
+    </Grid>
+</Window>
